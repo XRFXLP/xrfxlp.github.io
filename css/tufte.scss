@@ -475,10 +475,10 @@ hr.slender {
     height: 1px;
     margin-top: 1.4rem;
     margin-bottom:1.4rem;
-    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(238, 90, 90, 0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(238, 90, 90, 0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(238, 90, 90, 0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(238, 90, 90, 0.75), rgba(0,0,0,0));
 }
 // End of front listing page stuff
 
@@ -580,67 +580,17 @@ hr.slender {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-mail3:before {
-  content: "\ea85";
-}
-.icon-amazon:before {
-  content: "\ea87";
-}
-.icon-google2:before {
-  content: "\ea89";
-}
-.icon-facebook2:before {
-  content: "\ea91";
-}
 .icon-twitter:before {
   content: "\ea96";
-}
-.icon-rss2:before {
-  content: "\ea9c";
-}
-.icon-youtube:before {
-  content: "\ea9d";
-}
-.icon-vimeo2:before {
-  content: "\eaa1";
-}
-.icon-lanyrd:before {
-  content: "\eaa2";
-}
-.icon-flickr3:before {
-  content: "\eaa5";
-}
-.icon-behance2:before {
-  content: "\eaa9";
-}
-.icon-dropbox:before {
-  content: "\eaae";
 }
 .icon-github:before {
   content: "\eab0";
 }
-.icon-blogger2:before {
-  content: "\eab8";
-}
-.icon-soundcloud2:before {
-  content: "\eac4";
-}
-.icon-skype:before {
-  content: "\eac5";
-}
-.icon-reddit:before {
-  content: "\eac6";
-}
 .icon-linkedin:before {
   content: "\eac9";
 }
-.icon-pinterest:before {
-  content: "\ead1";
-}
-.icon-paypal:before {
-  content: "\ead8";
-}
-.icon-html-five:before {
-  content: "\eae4";
+.icon-tumblr::before {
+  content: url('https://api.iconify.design/logos/tumblr-icon.svg?width=20&height=20');
+  background-color:#ff2a2a;
 }
 /*-- End of Icomoon icon font section --*/
