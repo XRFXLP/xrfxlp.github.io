@@ -43,6 +43,7 @@ List of learning resources that I've came across for learning wide variety of th
 
 ### Operating System
 1. [Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119800366)
+2. [Operating Systems: from 0 to 1](https://tuhdo.github.io/os01/)
 
 ### Computer Networks
 1. [Computer Netowrk: A top-down approach](https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html)
