@@ -3,14 +3,19 @@ layout: post
 title:  "Man Alone with Himself"
 categories: post
 ---
-Quotes from the book "Man Alone with Himself"by Fredrick Nietschze   
+Quotes from the book "Man Alone with Himself" by Friedrich Nietzsche    
 <!--more-->
 
-> Topsy-turvy world. We criticize a thinker more sharply when he
+> ![img](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330567060i/5956506.jpg)
+
+This posthumously published book contains quotes and aphorism from german philosopher Friedrich Nietzsche. In this book, Nietzsche argues that humans are not content with simply living in the world as it is, they have a fundamental drive for creating, changing[as per their ideals and beliefs] and expressing themselves in this world and this is what give them a purpose and meaning of life.
+
+Although, I've not understood substantial part of this book (not sure if the un-understanding is due to some not-used-to-idiomatic english or subject matter needs considerable amount of patience to digest), following are some of my "favroite" [which, I believe, captures the essence of intention of the book] quotes from the book:
+> We criticize a thinker more sharply when he 
 proposes a tenet that is disagreeable to us; and yet it would be more
 reasonable to do this when we find his tenet agreeable.
 
-> **Self-observation**. Man is very well defended against himself, against
+> Man is very well defended against himself, against
 his own spying and sieges; usually he is able to make out no more of
 himself than his outer fortifications. The actual stronghold is
 inaccessible to him, even invisible, unless friends and enemies turn
@@ -134,3 +139,5 @@ And even from this learned opinion they will always want to detract
 or reduce something.
 Thus one must grant certain men their solitude, and not be silly
 enough, as often happens, to pity them for it.
+
+> "Wherever the thinker behaves like a genius, calling himself one, and looking down like a higher being who deserves authority, he is counting on the class in the overwhelming majority"
