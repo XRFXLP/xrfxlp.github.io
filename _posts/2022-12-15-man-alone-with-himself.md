@@ -141,3 +141,37 @@ Thus one must grant certain men their solitude, and not be silly
 enough, as often happens, to pity them for it.
 
 > "Wherever the thinker behaves like a genius, calling himself one, and looking down like a higher being who deserves authority, he is counting on the class in the overwhelming majority"
+
+>Our supreme insights must – and should! – sound like follies, in
+certain cases like crimes, when they come impermissibly to the ears
+of those who are not predisposed and predestined for them. The
+exoteric and the esoteric as philosophers formerly distinguished
+them, among the Indians as among the Greeks, Persians and
+Moslems, in short wherever one believed in an order of rank and not
+in equality and equal rights – differ one from another not so much
+in that the exoteric stands outside and sees, evaluates, measures,
+judges from the outside, not from the inside: what is more essential
+is that this class sees things from below – but the esoteric sees them
+from above! There are heights of the soul seen from which even
+tragedy ceases to be tragic; and, taking all the woe of the world
+together, who could venture to assert that the sight of it would have
+to seduce and compel us to pity and thus to a doubling of that woe?
+... What serves the higher type of man as food or refreshment must
+to a very different and inferior type be almost poison. The virtues of
+the common man would perhaps indicate vice and weakness in a
+philosopher; it may be possible that if a lofty type of man
+degenerated and perished, he would only thus acquire qualities on
+whose account it would prove necessary in the lower world into
+which he had sunk henceforth to venerate him as a saint. There are
+books which possess an opposite value for soul and health
+depending on whether the lower soul, the lower vitality, or the
+higher and more powerful avails itself of them: in the former case
+they are dangerous, disintegrative books, which produces
+dissolution, in the latter they are herald calls challenging the most
+courageous to their courage. Books for everybody are always
+malodorous books: the smell of petty people clings to them. Where
+the people eats and drinks, even where it worships, there is usually
+a stink. One should not go into churches if one wants to breathe
+pure air.
+
+Summary from chatGPT: This passage suggests that certain insights or perspectives may only be understood or appreciated by certain people, and may even be seen as foolish or harmful by those who are not predisposed to understand them. The author suggests that there is a hierarchy of understanding, with some people seeing things from a higher perspective and others seeing things from a lower perspective. The author also suggests that what is nourishing or enriching for one person may be harmful or poisonous to another, and that certain books or ideas may have different effects depending on the person who consumes them. Finally, the author implies that the actions and beliefs of the common or average person may be seen as virtuous by some, but as vice or weakness by others, and that people who are considered lofty or superior may be revered even if they have degenerated or failed.
