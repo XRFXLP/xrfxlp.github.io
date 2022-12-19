@@ -83,14 +83,14 @@ p > a, cite > a, span > a { @if $link-style == underline
     }
   }
 
-body { width: 100%;
+body { width: 87.5%;
        margin-left: auto;
        margin-right: auto;
        padding-left: 8.5%;
-       font-family: $body-font;
+       font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: $bg-color;
        color: $text-color;
-       max-width: 1500px;
+       max-width: 1400px;
        counter-reset: sidenote-counter; }
 
 // --------- Typography stuff -----------//
