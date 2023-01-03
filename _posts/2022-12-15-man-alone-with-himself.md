@@ -3,7 +3,7 @@ layout: post
 title:  "Man Alone with Himself"
 categories: post
 ---
-Quotes from the book "Man Alone with Himself" by Friedrich Nietzsche    
+_Quotes from the book "Man Alone with Himself" by Friedrich Nietzsche_   
 <!--more-->
 
 > ![img](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1330567060i/5956506.jpg)

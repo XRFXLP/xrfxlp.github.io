@@ -3,7 +3,7 @@ layout: post
 title:  "Learning Resources"
 categories: post
 ---
-List of learning resources that I've came across for learning wide variety of things.
+_List of learning resources that I've came across for learning wide variety of things._
 <!--more-->
 ### Probability theory:
 

@@ -3,7 +3,7 @@ layout: post
 title:  "On Thinking Tools"
 categories: post
 ---
-What are mental models and thinking tools?
+_What are mental models and thinking tools?_
 <!--more-->
 
 If one imagines thoughts/stream of reasoning as flow, then thinking tools are some mechanicsm by which one can control or manipulate the flow of thoughts. But normally flows are too simple to capture even the prominently reasonable aspects of thoughts. Some of the thinking tools are: labels, examples, cartesian coordinates (basically all of science and math)
