@@ -20,6 +20,11 @@ categories: page
 
 ### Favourite Quotes
 
-_“Reality is that which, when you stop believing in it, doesn't go away.”_
+> _“Reality is that which, when you stop believing in it, doesn't go away.”_
 
-_"Reject your sense of injury and the injury itself disappears."_
+> _"Reject your sense of injury and the injury itself disappears."_
+
+### Interesting Blogs
+
++ [_Paul Graham's Blog_](http://www.paulgraham.com/articles.html)
++ [_Sam Altman's Blog_](https://blog.samaltman.com/)

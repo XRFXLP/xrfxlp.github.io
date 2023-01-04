@@ -6,7 +6,7 @@ categories: post
 _Notes from the book [Thinking in Systems](https://www.goodreads.com/en/book/show/3828902-thinking-in-systems)_
 <!--more-->
 
-_Thinking in Systems is an introductory book on [system dynamics](https://en.wikipedia.org/wiki/System_dynamics) written mainly by a member of system dynamics group at MIT. This book is written in three parts, first part introduces the fundamentals concepts of systems thinkings: feedback loops, flows and stocks; the second part is about how these tools are used in different real-world scenerios: economic system, social systems and environment systems; third part discusses the leverage points and decision making in system._
+_Thinking in Systems is an introductory book on [system dynamics](https://en.wikipedia.org/wiki/System_dynamics) written mainly by a member of system dynamics group at MIT. System dynamics is a method of doing science by modelling any system in terms of feedback loops, flows and stocks. This book is written in three parts, first part introduces the fundamentals concepts of systems thinkings: feedback loops, flows and stocks; the second part is about how these tools are used in different real-world scenerios: economic system, social systems and environment systems; third part discusses the leverage points and decision making in system._
 
 ### Properties of Systems:
 
