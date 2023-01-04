@@ -18,13 +18,18 @@ categories: page
 
 **Richard Philips Feynman**: because of his way of thinking, curiousity of even the most of simplest of things and extracting the beauty of mechanism out of it.
 
+### Interesting Articles
+
+### Interesting Blogs
+
+ [_Paul Graham's_](http://www.paulgraham.com/articles.html) | 
+[_Sam Altman's_](https://blog.samaltman.com/) | 
+[_Michael Nielsen's_](https://michaelnielsen.org/blog/) |
+[_Peter Norvig's_](https://norvig.com/)
+
 ### Favourite Quotes
 
 > _“Reality is that which, when you stop believing in it, doesn't go away.”_
 
 > _"Reject your sense of injury and the injury itself disappears."_
 
-### Interesting Blogs
-
-+ [_Paul Graham's Blog_](http://www.paulgraham.com/articles.html)
-+ [_Sam Altman's Blog_](https://blog.samaltman.com/)
