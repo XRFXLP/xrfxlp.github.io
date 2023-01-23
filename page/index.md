@@ -21,6 +21,7 @@ categories: page
 ### Interesting Articles
 
 [_Before you can be others, first learn to be alone_](https://aeon.co/ideas/before-you-can-be-with-others-first-learn-to-be-alone)
+[_Embracing Complexity_](https://hbr.org/2011/09/embracing-complexity)
 ### Interesting Blogs
 
  [_Paul Graham's_](http://www.paulgraham.com/articles.html) | 
