@@ -21,7 +21,9 @@ categories: page
 ### Interesting Articles
 
 `1: ` [_Before you can be others, first learn to be alone_](https://aeon.co/ideas/before-you-can-be-with-others-first-learn-to-be-alone)  
-`2: ` [_Embracing Complexity_](https://hbr.org/2011/09/embracing-complexity)
+`2: ` [_Embracing Complexity_](https://hbr.org/2011/09/embracing-complexity)  
+`3: ` [_The Art of listening_](https://aeon.co/essays/the-psychologist-carl-rogers-and-the-art-of-active-listening)
+
 ### Interesting Blogs
 
 [_Paul Graham's_](http://www.paulgraham.com/articles.html) | 
