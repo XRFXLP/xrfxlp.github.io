@@ -18,6 +18,10 @@ categories: page
 
 `5: `**Richard Philips Feynman**: because of his way of thinking, curiousity of even the most of simplest of things and extracting the beauty of mechanism out of it.
 
+### Interesting Talks
+
+`1: ` [_Systems Thinking, Learning, and Problem Solving by Russell L. Ackoff_](https://youtu.be/O9TE9HWFo6U)
+
 ### Interesting Articles
 
 `1: ` [_Before you can be others, first learn to be alone_](https://aeon.co/ideas/before-you-can-be-with-others-first-learn-to-be-alone)  
@@ -34,6 +38,7 @@ categories: page
 ### Interesting Websites
 
 `1: ` [Complexity Explorer](https://www.complexityexplorer.org/)
+
 
 ### Favourite Quotes
 
