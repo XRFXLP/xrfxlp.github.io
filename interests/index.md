@@ -34,7 +34,8 @@ categories: page
 [_Paul Graham's_](http://www.paulgraham.com/articles.html) | 
 [_Sam Altman's_](https://blog.samaltman.com/) | 
 [_Michael Nielsen's_](https://michaelnielsen.org/blog/) |
-[_Peter Norvig's_](https://norvig.com/)
+[_Peter Norvig's_](https://norvig.com/) |
+[_Naval Ravikant's_](https://nav.al/)
 
 ### Interesting Websites
 
