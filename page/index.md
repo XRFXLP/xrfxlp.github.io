@@ -20,7 +20,8 @@ categories: page
 
 ### Interesting Talks
 
-`1: ` [_Systems Thinking, Learning, and Problem Solving by Russell L. Ackoff_](https://youtu.be/O9TE9HWFo6U)
+`1: ` [_Systems Thinking, Learning, and Problem Solving by Russell L. Ackoff_](https://youtu.be/O9TE9HWFo6U)  
+`2: ` [_Consciousness in Artificial Intelligence | John Searle | Talks at Google_](https://youtu.be/rHKwIYsPXLg)
 
 ### Interesting Articles
 
