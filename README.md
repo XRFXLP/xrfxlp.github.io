@@ -1,6 +1,6 @@
 Blog:
 To build:
 ```
-gem install bundler jekyl
+gem install bundler jekyll
 sudo jekyll serve -w --baseurl ''
 ```
