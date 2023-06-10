@@ -87,7 +87,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Junkyard" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos\badge_1.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos\/badge_1.png" # Site logo, also used in jekyll-seo-tag
 url: "https://xrfxlp.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -118,3 +118,5 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Cormorant:wght@400;700&display=swap
+
