@@ -15,7 +15,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: ETBook, "Chronicle Text G2", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif,
+  font-family: '"et-book", monospace',
   regular: 400,
   bold: 700,
   italic: italic,
@@ -23,7 +23,7 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: ETBook,
+  font-family: "et-book",
   regular: 400,
   bold: 700,
   cap-height: 0.75
