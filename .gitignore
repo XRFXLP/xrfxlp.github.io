@@ -1,5 +1,8 @@
-_site
-.sass-cache
-.jekyll-cache
-.DS\_Store
-config.codekit
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+alembic-jekyll-theme-*.gem
+Gemfile.lock
+**/Gemfile.lock
+

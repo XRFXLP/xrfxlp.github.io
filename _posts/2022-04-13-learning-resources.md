@@ -2,9 +2,13 @@
 layout: post
 title:  "Learning Resources"
 categories: post
+excerpt: |
+ _List of learning resources that I've came across for learning wide variety of things._
 ---
-_List of learning resources that I've came across for learning wide variety of things._
+
+
 <!--more-->
+
 ### Probability theory:
 
 1. [Poisson Process](https://www.youtube.com/playlist?list=PL50jX08Oa0tYgnJ6uSOym0dDcf9nNlJCa) playlist by Etienne Pienaar

@@ -1,6 +1,6 @@
-source 'https://rubygems.org'
+source "http://rubygems.org"
 
-gem 'jekyll'
-gem 'rouge'
+gemspec
 gem 'tzinfo'
 gem 'tzinfo-data'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?  

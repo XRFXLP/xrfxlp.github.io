@@ -1,17 +1,38 @@
-/* This file contains all the constants for colors and font styles */
+// Background colours
+$backgroundColour: #040616 !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #faf9f9 !default;
+$accentColour: #ff2a2a !default;
 
-$body-font: ETBembo, "Chronicle Text G2", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-// Note that Gill Sans is the top of the stack and corresponds to what is used in Tufte's books
-// However, it is not a free font, so if it is not present on the computer that is viewing the webpage
-// The free Google 'Lato' font is used instead. It is similar.
-$sans-font: "Gill Sans", "Gill Sans MT", "Gotham Narrow", "Lato", Calibri, sans-serif;
-$code-font: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-$url-font: "Lucida Console", "Lucida Sans Typewriter", Monaco, "Bitstream Vera Sans Mono", monospace;
-$text-color: rgb(161, 157, 157);
-$bg-color: #040616;
-$contrast-color: #ff2a2a;
-$border-color: #927676;
-$link-style: underline; // choices are 'color' or 'underline'. Color option styles links with $contrast-color set above
+// Text colours
+$headingColour: #ed6b6b !default;
+$bodyColour: #ff826f !default;
+$linkColour: #f01000 !default;
+$hoverColour: #ffceae !default;
+$focusColour: #fa407a !default;
+$captionColour: #efa543 !default;
+$white: #ffffff !default;
 
+// Typography
+$bodytype: (
+  font-family: "Georgia, serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
 
+$headingtype: (
+  font-family: '"Merriweather", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
 
+$monospacetype: (
+  font-family: "Menlo, monospace",
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
+// TIP: Load custom fonts in _config.yaml

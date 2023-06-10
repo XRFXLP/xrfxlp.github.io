@@ -2,10 +2,12 @@
 layout: post
 title:  "The Intelligent Investor"
 categories: post
+excerpt: |
+    _Lessons from the book "The Intelligent Investor" by Benjamin Graham_
 ---
-_Lessons from the book "The Intelligent Investor" by Benjamin Graham_
+
 <!--more-->
 
-> Stock is an unit of ownership interest with underlying value independent of its market share price.  
+"The Intelligent Investor" is a book about value investing. Value investing is an investment strategy that seeks to buy stocks trading for less than their intrinsic value.
 
-> Market is pendulum that swings from unsustainable optimists and unjustified pessimists, and investor is someone who sells from pessimists to optimisits 
+The book classifies two classes of intelligent investors: "defensive" investors (who are seeking to protect their capital but generate only modest returns) and "enterprising" investors (who are willing to take more risk in exchange for higher returns).

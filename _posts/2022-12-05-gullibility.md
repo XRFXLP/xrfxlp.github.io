@@ -2,8 +2,10 @@
 layout: post
 title:  "On Gullibility"
 categories: post
+excerpt: |
+  _Why people are so gullible?_
 ---
-_Why people are so gullible?_
+
 <!--more-->
 
 _This post is mostly inspired the book: [Not Born Yesterday](https://press.princeton.edu/books/hardcover/9780691178707/not-born-yesterday) by Hugo Mercier_

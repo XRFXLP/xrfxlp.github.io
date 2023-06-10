@@ -2,8 +2,9 @@
 layout: post
 title:  "On Breadth"
 categories: post
+excerpt: |
+    _Things to care about_
 ---
-_Things to care about_
 <!--more-->
 
 All of the advice, knowledge, and lessons assume that the reader has the will to live and to care about their state of living. Or, less generally, advice about aspect $$ X $$ of life depends (obviously) on whether one cares about it.  One usually chooses the aspects of life one wants to care about. This set $$ S $$ of aspects (with elements having aspects $$ X $$) is not dynamic; they are static, and they are what gives rise to an emergent property:  “personality.”
