@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Breadth"
-categories: post
+# categories: post
 excerpt: |
     _Things to care about_
 ---

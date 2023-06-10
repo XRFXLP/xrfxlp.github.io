@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Man Alone with Himself"
-categories: post
+# categories: post
 excerpt: |
     _Quotes from the book "Man Alone with Himself" by Friedrich Nietzsche_   
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Art of Problem Solving"
-categories: post
+# categories: post
 excerpt: |  
  _Summary of the book "The Art of Problem Solving" by Russell Ackooff_
 ---

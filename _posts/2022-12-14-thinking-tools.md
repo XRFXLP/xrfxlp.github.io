@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Thinking Tools"
-categories: post
+# categories: post
 excerpt: |
     _What are mental models and thinking tools?_
 ---

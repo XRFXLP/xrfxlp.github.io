@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Resources"
-categories: post
+# categories: post
 excerpt: |
  _List of learning resources that I've came across for learning wide variety of things._
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Intelligent Investor"
-categories: post
+# categories: post
 excerpt: |
     _Lessons from the book "The Intelligent Investor" by Benjamin Graham_
 ---

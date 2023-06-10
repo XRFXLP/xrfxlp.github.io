@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On Gullibility"
-categories: post
+# categories: post
 excerpt: |
   _Why people are so gullible?_
 ---
