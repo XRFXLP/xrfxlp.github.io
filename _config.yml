@@ -90,7 +90,7 @@ title: "Junkyard" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos\/badge_1.png" # Site logo, also used in jekyll-seo-tag
 url: "https://xrfxlp.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
+repo: "https://github.com/xrfxlp.github.io"
 email: "xrfxlp@pm.me"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -106,6 +106,8 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
+- title: Aphorism
+  url: /aphorism    
 - title: Readings
   url: https://www.goodreads.com/review/list/29493134?shelf=read
 - title: Gallery

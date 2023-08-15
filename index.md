@@ -2,9 +2,9 @@
 title: About me
 ---
 Hi,   
-I’m Ajay Mishra, System Software Engineer at NVIDIA. I blog about system science , philosophy (mainly with a cynicism flavor), and other random stuff.
+I’m Ajay Mishra, System Software Engineer at NVIDIA. I blog about system science, philosophy, and other random stuff.
 
-Most of the original ideas are based off from books or talks or blogs. My goal is to get involved in the process of summarizing and thinking about the consequences of these ideas and get a more coherent, complete and in-depth understanding/insight on the topic.
+Most of the original ideas are based off from books or talks or blogs. My goal is to get involved in the process of summarizing and thinking about the consequences of these ideas and get a more coherent, complete and in-depth understanding/insight on the topic. Other than that I like to write when things are out of control, check out [my post on writing](https://xrfxlp.github.io/2022/12/05/writing/).
 
 # Interests
 
