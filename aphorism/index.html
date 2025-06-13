@@ -1,4 +1,20 @@
 ---
 layout: page
-collectionpage: posts
 ---
+
+{% for aphorism in site.aphorisms %}
+<article>
+  <blockquote>
+    {{ aphorism.content | strip_html }}
+  </blockquote>
+  
+  {% if aphorism.author %}
+    <p><em>— {{ aphorism.author }}</em></p>
+  {% endif %}
+
+</article>
+{% endfor %}
+
+{% if site.aphorisms.size == 0 %}
+<p>No aphorisms yet. Add your first quote by creating a markdown file in the <code>_aphorisms</code> folder.</p>
+{% endif %}

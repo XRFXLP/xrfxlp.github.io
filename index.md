@@ -8,7 +8,7 @@ Most of the original ideas are based off from books or talks or blogs. My goal i
 
 # Interests
 
-### Favourite People
+### People
 
 1. **Friedrich Nietzsche**: because of his ideas on individuality, solitude and non-conformity, meaningfulness, inner chaos and how to interpret its meaning and directionality
 
@@ -20,18 +20,18 @@ Most of the original ideas are based off from books or talks or blogs. My goal i
 
 5. **Richard Philips Feynman**: because of his way of thinking, curiousity of even the most of simplest of things and extracting the beauty of mechanism out of it.
 
-### Interesting Talks
+### Talks
 
 1. [_Systems Thinking, Learning, and Problem Solving by Russell L. Ackoff_](https://youtu.be/O9TE9HWFo6U)  
 2. [_Consciousness in Artificial Intelligence \| John Searle \| Talks at Google_](https://youtu.be/rHKwIYsPXLg)
 
-### Interesting Articles
+###  Articles
 
 1. [_Before you can be others, first learn to be alone_](https://aeon.co/ideas/before-you-can-be-with-others-first-learn-to-be-alone)  
 2. [_Embracing Complexity_](https://hbr.org/2011/09/embracing-complexity)  
 3. [_The Art of listening_](https://aeon.co/essays/the-psychologist-carl-rogers-and-the-art-of-active-listening)
 
-### Interesting Blogs
+### Blogs
 
 [_Paul Graham's_](http://www.paulgraham.com/articles.html) | 
 [_Sam Altman's_](https://blog.samaltman.com/) | 
@@ -39,12 +39,12 @@ Most of the original ideas are based off from books or talks or blogs. My goal i
 [_Peter Norvig's_](https://norvig.com/) |
 [_Naval Ravikant's_](https://nav.al/)
 
-### Interesting Websites
+### Websites
 
 1. [Complexity Explorer](https://www.complexityexplorer.org/)
 
 
-### Favourite Quotes
+### Quotes
 
 > _“Reality is that which, when you stop believing in it, doesn't go away.”_
 
