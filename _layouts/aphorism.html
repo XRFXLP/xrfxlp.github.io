@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<main id="main" class="main" role="main">
+  <article role="article" class="content">
+    
+    <div class="content">
+      <blockquote>
+        {{ content }}
+      </blockquote>
+      
+      {% if page.author %}
+        <p><em>— {{ page.author }}</em></p>
+      {% endif %}
+    </div>
+
+    <nav>
+      <p><a href="/aphorism/">← Back to all aphorisms</a></p>
+    </nav>
+
+  </article>
+</main> 
