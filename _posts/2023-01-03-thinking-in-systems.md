@@ -3,7 +3,7 @@ layout: post
 title:  "Thinking in Systems"
 # categories: post
 excerpt: |
-_Notes from the book [Thinking in Systems](https://www.goodreads.com/en/book/show/3828902-thinking-in-systems)_
+  _Notes from the book [Thinking in Systems](https://www.goodreads.com/en/book/show/3828902-thinking-in-systems)_
 ---
 
 <!--more-->
