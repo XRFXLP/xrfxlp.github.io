@@ -1,0 +1,110 @@
+baseURL = "https://xrfxlp.github.io/"
+languageCode = "en-gb"
+title = "Junkyard"
+theme = "PaperMod"
+paginate = 10
+enableEmoji = true
+
+[params]
+  description = "Thoughts on system science, philosophy, and other random stuff"
+  author = "Ajay Mishra"
+  DateFormat = "2 January 2006"
+  defaultTheme = "dark"
+  disableThemeToggle = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  ShowToc = true
+  TocOpen = false
+  comments = false
+
+  [params.homeInfoParams]
+    Title = "About me"
+    Content = """
+Hi, I'm Ajay Mishra, System Software Engineer at NVIDIA. I blog about system science, philosophy, and other random stuff.
+
+Most of the original ideas are based off from books or talks or blogs. My goal is to get involved in the process of summarizing and thinking about the consequences of these ideas and get a more coherent, complete and in-depth understanding/insight on the topic. Other than that I like to write when things are out of control, check out [my post on writing](/posts/writing/).
+"""
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/xrfxlp"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/xrfxlp"
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/XRFXLP"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:xrfxlp@pm.me"
+  [[params.socialIcons]]
+    name = "goodreads"
+    url = "https://www.goodreads.com/review/list/29493134?shelf=read"
+
+  [params.assets]
+    favicon = "/favicon.ico"
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+[params.math]
+  enable = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [["$$", "$$"], ["\\[", "\\]"]]
+          inline = [["$", "$"], ["\\(", "\\)"]]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "aphorisms"
+  name = "Aphorisms"
+  url = "/aphorisms/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "readings"
+  name = "Readings"
+  url = "https://www.goodreads.com/review/list/29493134?shelf=read"
+  weight = 50
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 60

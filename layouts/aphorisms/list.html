@@ -1,0 +1,27 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{- end }}
+</header>
+
+<div class="aphorisms-list">
+  {{- range .Pages }}
+  <article class="aphorism-item" style="margin-bottom: 2em;">
+    <blockquote style="font-style: italic; border-left: 3px solid var(--primary); padding-left: 1em; margin: 0;">
+      {{ .Content }}
+    </blockquote>
+    {{- if .Params.author }}
+    <p style="text-align: right; color: var(--secondary); margin-top: 0.5em;">
+      — {{ .Params.author }}
+    </p>
+    {{- end }}
+  </article>
+  {{- end }}
+</div>
+
+{{- end }}{{/* end main */}}

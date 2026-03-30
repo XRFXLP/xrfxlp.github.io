@@ -1,8 +1,14 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
-alembic-jekyll-theme-*.gem
-Gemfile.lock
-**/Gemfile.lock
+# Hugo output
+public/
+resources/_gen/
 
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

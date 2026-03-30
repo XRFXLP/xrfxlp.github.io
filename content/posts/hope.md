@@ -1,0 +1,14 @@
+---
+title: "On Hope"
+date: 2023-06-20T00:00:00+00:00
+summary: "Is hope really dangerous?"
+draft: false
+---
+
+<!--more-->
+
+Often, I've noticed people arguing about hope and how it is dangerous; I, too, had this belief at some point. Given reality's sheer complexity, its inherent unpredictability, and neutrality of reality toward human desires, it seemed safe and secure not to have any hope. And often, in this line of reasoning, I used to mock theists as the carrier of blind hope.
+
+But fortunately, I found that I had a misunderstanding about hope. It was more of an expectation without action. Hope is an optimistic state of mind characterized by believing in potential positive outcomes and realistic improvements. It is an emotion that inspires a sense of possibility. But hope itself is never enough on its own; almost always, it needs to be complemented by the action which is directed toward the desired goal which is hoped of. 
+
+Hopelessness leads to inaction, as there is the inertia of pessimism that nothing will work. This belief rests on the assumption that the world is inherently chaotic, random, and lacks any order, and actions intended for a goal have minimal effect on achieving that goal. If this goes unchecked, it quickly leads to goallessness and meaninglessness.
