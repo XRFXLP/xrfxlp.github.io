@@ -28,21 +28,13 @@ Hi, I'm Ajay Mishra, System Software Engineer at NVIDIA. I blog about system sci
 Most of the original ideas are based off from books or talks or blogs. My goal is to get involved in the process of summarizing and thinking about the consequences of these ideas and get a more coherent, complete and in-depth understanding/insight on the topic. Other than that I like to write when things are out of control, check out [my post on writing](/posts/writing/).
 """
 
+
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/xrfxlp"
+    name = "instagram"
+    url = "https://instagram.com/xrfxlp"
   [[params.socialIcons]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/xrfxlp"
-  [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/XRFXLP"
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:xrfxlp@pm.me"
-  [[params.socialIcons]]
-    name = "goodreads"
-    url = "https://www.goodreads.com/review/list/29493134?shelf=read"
+    name = "unsplash"
+    url = "https://unsplash.com/@xrfxlp"
 
   [params.assets]
     favicon = "/favicon.ico"
